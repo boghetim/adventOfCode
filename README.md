@@ -1,3 +1,3 @@
 # adventOfCode2022
 
-![total aoc](./media/total.png?raw=true)
+![total aoc](./media/totalStars.png?raw=true)
